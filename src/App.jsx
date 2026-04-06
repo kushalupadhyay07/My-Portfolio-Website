@@ -8,6 +8,7 @@ import Skills from "./sections/Skills"
 import Footer from "./sections/Footer"
 import Contact from "./sections/Contact"
 import ParticleBackground from "./components/ParticleBackground"
+import Customcursor from './components/Customcursor'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
     <>
       <div className='relative gradient text-white'>
        <ParticleBackground></ParticleBackground>
+       <Customcursor></Customcursor>
 
         <Navbar></Navbar>
       <About></About>
