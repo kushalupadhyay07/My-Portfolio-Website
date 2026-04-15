@@ -11,7 +11,7 @@ export default function ParticleBackground() {
     canvas.height = window.innerHeight;
 
     const particles = [];
-    const particleCount = 50;
+    const particleCount = 80;
     const colors = ["rgba(255,255,255,0.7)"];
 
     class Particle {
