@@ -21,8 +21,9 @@ function App() {
        <Customcursor></Customcursor>
 
         <Navbar></Navbar>
+        <Home></Home>
       <About></About>
-      <Home></Home>
+      
       <Skills></Skills>
        <Project></Project>
        <Experience></Experience>
