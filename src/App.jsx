@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <div className='relative gradient text-white'>
-       <ParticleBackground></ParticleBackground>
+       {/* <ParticleBackground></ParticleBackground> */}
        <Customcursor></Customcursor>
 
         <Navbar></Navbar>
